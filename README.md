@@ -7,6 +7,7 @@ let obj = {
 
 console.log(qs.stringify(obj))
 // name=jeff&age=30
+
 console.log(JSON.stringify(obj))
 // {"name":"jeff","age":30}
 ```
